@@ -19,3 +19,8 @@ Coming soon!
 2. Api service(Fastapi) - Backend
 
 3. web app - Frontend
+
+Reference: 
+
+1. https://www.kaggle.com/code/archietram/dr-fastai-v0
+2. https://www.kaggle.com/code/parisanahmadi/dl-diabetic-retinopathycdetection-95-acc-cnn
