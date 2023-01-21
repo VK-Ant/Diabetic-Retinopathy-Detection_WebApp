@@ -14,6 +14,8 @@ This below one is my visualization of data! This data are appling in gaussian fi
 
 1. In my first step, I am preprocessing,train & save the model
 
-Coming soon
+Coming soon!
+
 2. Api service(Fastapi) - Backend
+
 3. web app - Frontend
