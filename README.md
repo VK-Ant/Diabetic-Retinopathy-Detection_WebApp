@@ -20,6 +20,9 @@ This below one is my visualization of data! This data are appling in gaussian fi
 
 3. web app - Frontend - Using Gradio
 
+![Screenshot from 2023-01-23 22-06-33](https://user-images.githubusercontent.com/75832198/214096413-cbf002fa-4da0-4e41-a339-c5bc79ef1dbb.png)
+
+
 Reference: 
 
 1. https://www.kaggle.com/code/archietram/dr-fastai-v0
