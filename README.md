@@ -10,17 +10,19 @@ This below one is my visualization of data! This data are appling in gaussian fi
 
 ![retina_visual](https://user-images.githubusercontent.com/75832198/213879994-a2234c19-ab84-46fe-a93b-efc588e2f48a.png)
 
+# Below all steps follow in this folder: End2End_CNNModel_api_webapp
+
 ## Steps:
 
 1. In my first step, I am preprocessing,train & save the model
 
 2. Api service(Fastapi) - Backend
 
-Coming soon!
-
-3. web app - Frontend
+3. web app - Frontend - Using Gradio
 
 Reference: 
 
 1. https://www.kaggle.com/code/archietram/dr-fastai-v0
 2. https://www.kaggle.com/code/parisanahmadi/dl-diabetic-retinopathycdetection-95-acc-cnn
+
+Thanks for visiting guys
