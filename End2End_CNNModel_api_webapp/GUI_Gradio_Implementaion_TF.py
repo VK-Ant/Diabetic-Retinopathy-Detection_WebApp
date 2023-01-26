@@ -2,10 +2,6 @@ import gradio as gr
 import cv2
 import tensorflow as tf
 
-
-print("Gradio Version",gr.__version__)
-
-
 def predict_input_image(img):
 
     '''Predict input images'''
